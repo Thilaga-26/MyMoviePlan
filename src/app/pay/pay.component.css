@@ -1,0 +1,53 @@
+body{
+    background-color: goldenrod;
+    max-width: 100%;
+    min-height: 700px ;
+    height:auto !important;
+    height: 400px;
+}
+
+.fa:hover{
+opacity: 0.9;
+}
+
+.fa-linkedin{
+    background: peachpuff;
+    color: black;
+}
+
+.fa-pinterest{
+    background: peachpuff;
+    color: black;
+}
+
+.fa-reddit{
+    background: peachpuff;
+    color: black;
+}
+
+.fa{
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 40px;
+}
+.copyright i{
+     margin-right: 0.25rem;
+}
+
+.fa-copyright i{
+    margin-left: 0.25rem;
+}
+
+.copyright{
+    text:size 1px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 644px;
+    height: 20px;
+    margin: 0 auto;
+}

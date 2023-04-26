@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+    max-width: 100%;
+    min-height: 700px;
+    height: auto !important;
+    height: 400px;
+}
+
+.img-thumbnail{
+    background-color: grey;
+    max-width: 100%;
+    min-height: 700px;
+    height: auto !important;
+    height: 400px;
+    border-color: black;
+}

@@ -1,0 +1,62 @@
+body{
+    background-color: grey;
+    max-width: 100%;
+    min-height: 900px;
+    height:auto !important;
+    height: 400px;
+}
+
+.searchbar{
+    width: 80%;
+    height: 20px;
+    text-indent: 15px;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    color: brown;
+}
+
+.btn-outline-success{
+    color: royalblue;
+    border-color: royalblue;
+}
+
+.btn-outline-success:hover{
+    color: navy;
+}
+
+form-control me-2{
+    width: 20vw;
+    margin-top: 2em;
+    border-radius: 10px;
+    padding: .7em;
+    background-color: blue;
+    color: blue;
+    border: blue;
+}
+.image{
+    padding-top: 60px;
+    padding-left: 20px;
+    height: 100px;
+    padding: 40px;
+    width: 100%;
+}
+
+.image2{
+    height: 400px;
+    width: 600px;
+}
+
+.image3,-image4{
+padding-top: 40px;
+height: 400px;
+width: 600px;
+padding-right: 40px;
+}
+.image5{
+    height: 400px;
+    width: 600px;
+    padding-right: 40px;
+}
